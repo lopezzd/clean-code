@@ -1,0 +1,23 @@
+{
+  "name": "clean-code",
+  "version": "1.0.0",
+  "description": "Clean Code Studies",
+  "homepage": "https://github.com/lopezzd/clean-code#readme",
+  "bugs": {
+    "url": "https://github.com/lopezzd/clean-code/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lopezzd/clean-code.git"
+  },
+  "license": "ISC",
+  "author": "João Henrique Lopes Divino",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}
