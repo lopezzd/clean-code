@@ -5,6 +5,7 @@ import { Header } from "./components/Header";
 function App() {
   const [tasks, setTasks] = useState<string[]>([]);
 
+  // Funções nomeadas com handle e on para indicar que são manipuladores de eventos
   function handleAddTask(event: FormEvent<HTMLFormElement>) {
     event.preventDefault();
 
